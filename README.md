@@ -8,13 +8,13 @@ Vamos a aprender los fundamentos de Bootstrap 4.4
 
 Desarrollar una página informativa de su proyecto usando bootstrap. Debe contener las siguientes caracteristicas:
 
-- [ ] **Header con menu slider para dispositivos moviles.**
-- [ ] **Pagina principal:** Carousel descriptivo con imagenes sobre casos de uso.
+- [x] **Header con menu slider para dispositivos moviles.**
+- [x] **Pagina principal:** Carousel descriptivo con imagenes sobre casos de uso.
 - [ ] **About:** Breve descripcion del proyecto.
-- [ ] **Página deIntegrantes:**  Mostrar una breve semblate de los integrantes del equipo.
+- [x] **Página deIntegrantes:**  Mostrar una breve semblate de los integrantes del equipo.
 - [ ] **Página de contacto:** Cómo el publico en general los puede localizar.
 - [ ] **Formulario de newsletter:** Una pagina donde se captura el nombre, fecha de cumpleaños, pais de residencia, correo eletronico y textfield para mensaje.
-- [ ] **Feed de noticias del proyecto**.
+- [x] **Feed de noticias del proyecto**.
 
 ## ¿Dónde se entrega?
 

@@ -1,0 +1,33 @@
+/*
+Paleta de colores: https://colorhunt.co/palette/174969
+*/
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Spartan';
+    color: white;
+    background: linear-gradient(to left bottom, #a8e6cf, #dcedc1);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background: linear-gradient(to right top, #ffaaa5, #ffd3b6);
+    box-shadow: 0 1rem 4rem #00000070;
+}
+
+.card {
+    color: #000;
+}
+
+.carousel-caption {
+    color: #000;
+    background: linear-gradient(to right top, #ffaaa5, #ffd3b6);
+    box-shadow: 0 -2rem 5rem #00000070;
+    border-radius: 30px;;
+    font-size: 3rem;
+}
