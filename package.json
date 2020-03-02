@@ -1,0 +1,11 @@
+{
+  "name": "g2",
+  "version": "1.0.0",
+  "description": "Homework 2 for Web Development Course in ITESM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
