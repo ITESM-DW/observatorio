@@ -26,4 +26,10 @@ router.get('/noticias', (req, res) => {
     });
 });
 
+router.get('/form', (req, res) => {
+    res.render('forms', {
+        title: 'Formulario'
+    });
+});
+
 module.exports = router;

@@ -1,0 +1,33 @@
+<%- include('layouts/main.ejs') %>
+
+<form>
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="Name">Nombre</label>
+        <input type="text" class="form-control" id="inputName" placeholder="Christian">
+      </div>
+      <div class="form-group col-md-6">
+        <label for="Birthday">Fecha de nacimiento</label>
+        <input type="date" class="form-control" id="inputBirthdate" placeholder="01-01-1990">
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="inputEmail">Email</label>
+      <input type="text" class="form-control" id="inputEmail" placeholder="email@mail.com">
+    </div>
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="inputCountry">Country</label>
+        <input type="text" class="form-control" id="inputCountry" placeholder="Mexico">
+      </div>
+    </div>
+    <div class="form-group">
+        <label for="exampleFormControlTextarea1">Mensaje</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"placeholder="Text goes here"></textarea>
+      </div>
+    <button type="submit" class="btn btn-primary">Send Form</button>
+  </form>
+
+
+
+<%- include('layouts/end.ejs') %> 

@@ -10,10 +10,10 @@ Desarrollar una página informativa de su proyecto usando bootstrap. Debe conten
 
 - [x] **Header con menu slider para dispositivos moviles.**
 - [x] **Pagina principal:** Carousel descriptivo con imagenes sobre casos de uso.
-- [ ] **About:** Breve descripcion del proyecto.
+- [x] **About:** Breve descripcion del proyecto.
 - [x] **Página deIntegrantes:**  Mostrar una breve semblate de los integrantes del equipo.
-- [ ] **Página de contacto:** Cómo el publico en general los puede localizar.
-- [ ] **Formulario de newsletter:** Una pagina donde se captura el nombre, fecha de cumpleaños, pais de residencia, correo eletronico y textfield para mensaje.
+- [x] **Página de contacto:** Cómo el publico en general los puede localizar.
+- [x] **Formulario de newsletter:** Una pagina donde se captura el nombre, fecha de cumpleaños, pais de residencia, correo eletronico y textfield para mensaje.
 - [x] **Feed de noticias del proyecto**.
 
 ## ¿Dónde se entrega?
